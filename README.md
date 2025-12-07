@@ -1,6 +1,10 @@
 # Java 25: Zero to Hero Learning Path 🚀
 
-Welcome to your comprehensive Java learning journey! This repository is structured to take you from a complete beginner to an advanced Java developer.
+[![Java Version](https://img.shields.io/badge/Java-25-orange.svg)](https://openjdk.org/projects/jdk/25/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-java25Examples-181717.svg?logo=github)](https://github.com/sumant2000/java25Examples)
+
+Welcome to your comprehensive Java learning journey! This repository is structured to take you from a complete beginner to an advanced Java developer with the latest Java 25 features.
 
 ## 📚 Course Structure
 
@@ -203,14 +207,38 @@ After completing this course, consider:
 
 ## 🤝 Contributing
 
-Feel free to add your own examples, improvements, or corrections!
+Feel free to add your own examples, improvements, or corrections! 
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## 📄 License
 
 This learning material is free to use for educational purposes.
 
+## 🌟 Star This Repository
+
+If you find this repository helpful, please give it a ⭐! It helps others discover this resource.
+
+## 📧 Contact & Support
+
+- **GitHub**: [@sumant2000](https://github.com/sumant2000)
+- **Repository**: [java25Examples](https://github.com/sumant2000/java25Examples)
+
+## 🎯 Repository Statistics
+
+- **15 Modules** - Complete learning path
+- **63 Files** - Comprehensive coverage
+- **23,000+ Lines** - Production-ready code
+- **100+ Examples** - Hands-on learning
+
 ---
 
 **Happy Coding! 💻✨**
+
+⭐ **Don't forget to star this repository!** ⭐
 
 Start your journey with Module 1: Basics →
