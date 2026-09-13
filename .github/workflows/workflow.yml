@@ -1,1 +1,15 @@
 
+name : myfirstworkflow
+on : 
+  push :  
+    branches: 
+      - master
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: checkout-branch
+        uses: actions/checkout@v4  
+      - name: test
+        run: echo "Git hub actions is working"
+        
